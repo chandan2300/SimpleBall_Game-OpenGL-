@@ -3,10 +3,17 @@
  
  
  Steps to run on your system(Ubuntu)
+ 
+ 
  1.Fork this repo
+ 
+ 
  2.Load the main.c on your system
+ 
  3.Run the command:- gcc filename.c -lGL -lGLU -lglut -lm 
+ 
   where filename.c is the name of the file
+  
   with which this program is saved.
   
   ENJOY!!!!
